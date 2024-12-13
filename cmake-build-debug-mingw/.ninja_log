@@ -1,0 +1,19 @@
+# ninja log v6
+325	1113	7554199564659738	BaseDeDatosSimple.exe	2bfbd8b1f38df242
+4	505	7557290490211016	build.ninja	afea9595becf1844
+8	323	7554199561478270	CMakeFiles/BaseDeDatosSimple.dir/main.c.obj	c0084d10aade3487
+99	1120	7557290490211016	build.ninja	afea9595becf1844
+27	1192	7557290492385817	CMakeFiles/BaseDeDatosSimple.dir/main.c.obj	c0084d10aade3487
+1194	1863	7557290504048991	BaseDeDatosSimple.exe	2bfbd8b1f38df242
+12	283	7557291563030493	CMakeFiles/BaseDeDatosSimple.dir/main.c.obj	c0084d10aade3487
+285	522	7557291565757244	BaseDeDatosSimple.exe	2bfbd8b1f38df242
+8	219	7557292039040001	CMakeFiles/BaseDeDatosSimple.dir/main.c.obj	c0084d10aade3487
+226	434	7557292041214785	BaseDeDatosSimple.exe	2bfbd8b1f38df242
+16	456	7557292326705963	CMakeFiles/BaseDeDatosSimple.dir/main.c.obj	c0084d10aade3487
+459	776	7557292331132348	BaseDeDatosSimple.exe	2bfbd8b1f38df242
+13	341	7557292629720528	CMakeFiles/BaseDeDatosSimple.dir/main.c.obj	c0084d10aade3487
+342	627	7557292633019995	BaseDeDatosSimple.exe	2bfbd8b1f38df242
+9	207	7557292872480280	CMakeFiles/BaseDeDatosSimple.dir/main.c.obj	c0084d10aade3487
+210	411	7557292874492352	BaseDeDatosSimple.exe	2bfbd8b1f38df242
+13	350	7557293064465310	CMakeFiles/BaseDeDatosSimple.dir/main.c.obj	c0084d10aade3487
+353	601	7557293067865545	BaseDeDatosSimple.exe	2bfbd8b1f38df242

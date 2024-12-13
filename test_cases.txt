@@ -1,0 +1,14 @@
+insert 1 user1 person1@example.com
+select
+insert 1 user1 person1@example.com
+insert 2 user2 person2@example.com
+insert 3 user3 person3@example.com
+select
+insert -1 user1 person1@example.com
+select
+insert 1 usernametoolongtoolongtoolongtoolong person1@example.com
+select
+insert 1 user1 emailtoolongtoolongtoolongtoolongtoolongtoolongtoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooolongtoolong@example.com
+select
+.exit
+

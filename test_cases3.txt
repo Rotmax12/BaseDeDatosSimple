@@ -1,0 +1,5 @@
+delete 1 user1 person1@example.com
+delete 2 user2 person2@example.com
+delete 3 user3 person3@example.com
+select
+.exit

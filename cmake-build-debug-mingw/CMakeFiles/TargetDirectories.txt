@@ -1,0 +1,3 @@
+C:/Users/Roberto/CLionProjects/BaseDeDatosSimple/cmake-build-debug-mingw/CMakeFiles/BaseDeDatosSimple.dir
+C:/Users/Roberto/CLionProjects/BaseDeDatosSimple/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/Roberto/CLionProjects/BaseDeDatosSimple/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir

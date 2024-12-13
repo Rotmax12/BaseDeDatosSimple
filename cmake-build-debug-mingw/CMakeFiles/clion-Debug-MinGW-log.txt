@@ -1,0 +1,4 @@
+C:\Users\Roberto\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Roberto/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\Roberto\CLionProjects\BaseDeDatosSimple -B C:\Users\Roberto\CLionProjects\BaseDeDatosSimple\cmake-build-debug-mingw
+-- Configuring done (1.8s)
+-- Generating done (1.3s)
+-- Build files have been written to: C:/Users/Roberto/CLionProjects/BaseDeDatosSimple/cmake-build-debug-mingw
